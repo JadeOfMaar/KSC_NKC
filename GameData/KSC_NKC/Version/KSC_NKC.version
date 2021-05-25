@@ -1,0 +1,25 @@
+{
+	"NAME":"KSC NKC",
+	"URL":"https://raw.githubusercontent.com/JadeOfMaar/KSC_NKC/tree/main/GameData/KSC_NKC/Version/KSC_NKC.version",
+	"DOWNLOAD":"https://github.com/JadeOfMaar/KSC_NKC/releases",
+	"CHANGE_LOG_URL":"https://raw.githubusercontent.com/JadeOfMaar/KSC_NKC/tree/main/GameData/KSC_NKC/Version/Changelog_KSC_NKC.txt",
+	"GITHUB":
+	{
+		"USERNAME":"JadeOfMaar",
+		"REPOSITORY":"https://github.com/JadeOfMaar/KSC_NKC",
+		"ALLOW_PRE_RELEASE":true,
+	},
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":11,
+		"PATCH":2
+	}
+}
