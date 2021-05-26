@@ -9,6 +9,6 @@ An alternate KSC Expansion. Focuses on aircraft and boats, not rockets. It's nam
 * 2 water launch points (one is 200m below). ~~If you spawn on the sea floor at the nearer point, not the Dragon's Lair, that's a new KK bug.~~
 * Extended runway for super-heavy planes to run on while braking on touchdown.
 * Launch from the 4 cardinal directions on the added runways + 2 ramps for STOL planes.
-* Harbor does not appear if you use Sigma Dimensions, JNSQ or Beyond Home.
+* Harbor does not appear if you use Sigma Dimensions or most of the popular system replacer planet packs. If it does appear, delete the folder `GameData/KSC_NKC/NKCHarbor/`
 * Compatible with JNSQ and Beyond Home.
 * Compatible with KSC Extended (which, in turn, is not currently compatible with Beyond Home).
